@@ -1,0 +1,29 @@
+.search-select,
+.search-input-field {
+    height: 100%;
+    padding: 5px 20px;
+    margin-left: 6px;
+    margin-right: 10px;
+    border: 1px solid gray;
+}
+
+.search-input-field {
+    height: 100%;
+    padding: 5px 20px;
+    /* margin-left: 6px; */
+    margin-right: 10px;
+    border: none;
+    outline: 0px;
+}
+
+.input-field-div {
+    border: 1px solid gray;
+    margin-right: 10px;
+}
+
+.search-button {
+    color: white;
+    background-color: gray;
+    border-radius: 50px;
+    padding: 10px 15px;
+}

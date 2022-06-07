@@ -1,0 +1,35 @@
+.banner-nav-main {
+    padding: 0%;
+}
+
+.banner-nav {
+    border-top: 1px solid #E2E2E2;
+    /* border-bottom: 1px solid #E2E2E2; */
+}
+
+.banner-ul {
+    padding: 0%;
+}
+
+.banner-ul li {
+    padding-bottom: 5px;
+    padding-left: 8px;
+    padding-right: 8px;
+    border-left: 1px solid #E2E2E2;
+}
+
+.banner-ul:nth-last-child(1) {
+    /* padding-left: 50px; */
+    /* padding-right: 50px; */
+    border-right: 1px solid #E2E2E2;
+}
+
+.banner-ul li a {
+    padding: 0;
+}
+
+.nav-link-color {
+    color: blue;
+    font-size: 12px;
+    font-weight: 550;
+}

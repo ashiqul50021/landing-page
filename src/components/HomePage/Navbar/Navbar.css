@@ -1,0 +1,18 @@
+.main-navbar {
+    height: fit-content;
+}
+
+.nav-card {
+    height: 150px;
+    padding: 0px;
+    margin-bottom: 0px !important;
+}
+
+.nav-card .card-header {
+    padding: 0px;
+    background-color: white;
+}
+
+.nav-card .card-body {
+    padding: 0%;
+}
